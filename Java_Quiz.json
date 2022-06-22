@@ -1,0 +1,503 @@
+[{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8a1"
+  },
+  "Question": "With inheritance, a derived subclass object can directly access any",
+  "Type": "MCQ",
+  "Difficulty_Level": "Easy",
+  "Option1": "With inheritance, a derived subclass object can directly access any",
+  "Option2": "Private superclass member",
+  "Option3": "Public superclass member",
+  "Option4": "Protected, public or private superclass member",
+  "Correct_Answer": "Public superclass member"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8a2"
+  },
+  "Question": "What is the keyword used in java to create an object?",
+  "Type": "MCQ",
+  "Difficulty_Level": "Easy",
+  "Option1": "This",
+  "Option2": "New",
+  "Option3": "Sync",
+  "Option4": "New()",
+  "Correct_Answer": "New"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8a3"
+  },
+  "Question": "An array holds:",
+  "Type": "MCQ",
+  "Difficulty_Level": "Easy",
+  "Option1": "Similar values of same data Type",
+  "Option2": "Different values of same data Type",
+  "Option3": "Same values of different data Types",
+  "Option4": "Different values of different data Types",
+  "Correct_Answer": "Similar values of same data Type"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8a4"
+  },
+  "Question": "Which of the following always need a Capital letter ?",
+  "Type": "MCQ",
+  "Difficulty_Level": "Easy",
+  "Option1": "Class names and Strings",
+  "Option2": "Objects and class names",
+  "Option3": "Fields and Strings",
+  "Option4": "Data Types and fields",
+  "Correct_Answer": "Class names and Strings"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8a5"
+  },
+  "Question": "The default statement of a switch is always executed.",
+  "Type": "T/F",
+  "Difficulty_Level": "Easy",
+  "Option1": "True",
+  "Option2": "False",
+  "Correct_Answer": "False"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8a6"
+  },
+  "Question": "Following code will result in: float num = 5/0;",
+  "Type": "MCQ",
+  "Difficulty_Level": "Easy",
+  "Option1": "Compilation error: Divisions must be in a try block",
+  "Option2": "Compilation error: DivideByZeroException",
+  "Option3": "Runtime Exception",
+  "Option4": "No Error: a is NaN",
+  "Correct_Answer": "Runtime Exception"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8a7"
+  },
+  "Question": "Choose the appropriate data Type for this value: \"1\" ",
+  "Type": "MCQ",
+  "Difficulty_Level": "Easy",
+  "Option1": "String",
+  "Option2": "Boolean",
+  "Option3": "Int",
+  "Option4": "Char",
+  "Correct_Answer": "String"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8a8"
+  },
+  "Question": "Choose the appropriate data Type for this value: 1",
+  "Type": "MCQ",
+  "Difficulty_Level": "Easy",
+  "Option1": "String",
+  "Option2": "Int",
+  "Option3": "Double",
+  "Option4": "Boolean",
+  "Correct_Answer": "Int"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8a9"
+  },
+  "Question": "Which of the following is not a Java keyword?",
+  "Type": "MCQ",
+  "Difficulty_Level": "Easy",
+  "Option1": "Main",
+  "Option2": "Try",
+  "Option3": "Integer",
+  "Option4": "String",
+  "Correct_Answer": "Integer"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8aa"
+  },
+  "Question": "Can you compare a boolean to an integer?",
+  "Type": "T/F",
+  "Difficulty_Level": "Easy",
+  "Option1": "True",
+  "Option2": "False",
+  "Correct_Answer": "False"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8ab"
+  },
+  "Question": "What is the size of a Char in Java?",
+  "Type": "MCQ",
+  "Difficulty_Level": "Easy",
+  "Option1": "4 bits",
+  "Option2": "7 bits",
+  "Option3": "8 bits",
+  "Option4": "16 bits",
+  "Correct_Answer": "16 bits"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8ac"
+  },
+  "Question": "Primitive data Types are allocated on a stack",
+  "Type": "T/F",
+  "Difficulty_Level": "Easy",
+  "Option1": "True",
+  "Option2": "False",
+  "Correct_Answer": "True"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8ad"
+  },
+  "Question": "Choose the appropriate data Type for this field: kindOfBird",
+  "Type": "MCQ",
+  "Difficulty_Level": "Easy",
+  "Option1": "String",
+  "Option2": "Int",
+  "Option3": "Boolean",
+  "Option4": "Double",
+  "Correct_Answer": "String"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8ae"
+  },
+  "Question": "Following code will result in: int num = 6.7;",
+  "Type": "MCQ",
+  "Difficulty_Level": "Easy",
+  "Option1": "Compilation error",
+  "Option2": "Runtime error",
+  "Option3": "Num being 6.7",
+  "Option4": "Num being 6",
+  "Correct_Answer": "Compilation error"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8af"
+  },
+  "Question": "A null reference may be used to access a static variable or method.",
+  "Type": "T/F",
+  "Difficulty_Level": "Medium",
+  "Option1": "True",
+  "Option2": "False",
+  "Correct_Answer": "False"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8b0"
+  },
+  "Question": "If none of the private/protected/public is specified for a member, that member..",
+  "Type": "MCQ",
+  "Difficulty_Level": "Medium",
+  "Option1": "Is accessible publicly",
+  "Option2": "Is only accessible by other classes of the same package",
+  "Option3": "Is only accessible from within the class",
+  "Option4": "Is accessible by the class and its subclasses",
+  "Correct_Answer": "Is only accessible by other classes of the same package"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8b1"
+  },
+  "Question": "Given the declaration : int [ ] ar = {1,2,3,4,5}; What is the value of ar[4]?",
+  "Type": "MCQ",
+  "Difficulty_Level": "Medium",
+  "Option1": "2",
+  "Option2": "3",
+  "Option3": "4",
+  "Option4": "5",
+  "Correct_Answer": "5"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8b2"
+  },
+  "Question": "Which one needs a web page to run",
+  "Type": "MCQ",
+  "Difficulty_Level": "Medium",
+  "Option1": "Which one needs a web page to run",
+  "Option2": "A Java Stand-Alone Application",
+  "Option3": "A Java Applet",
+  "Option4": "A Java Class",
+  "Correct_Answer": "A Java Applet"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8b3"
+  },
+  "Question": "Which is not a part of defining an object?",
+  "Type": "MCQ",
+  "Difficulty_Level": "Medium",
+  "Option1": "Description",
+  "Option2": "Methods",
+  "Option3": "Associations with other objects",
+  "Option4": "Name",
+  "Correct_Answer": "Description"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8b4"
+  },
+  "Question": "The methods wait(), notify() and notifyAll() in Object need to be called from synchronized pieces of code.",
+  "Type": "T/F",
+  "Difficulty_Level": "Medium",
+  "Option1": "True",
+  "Option2": "False",
+  "Correct_Answer": "True"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8b5"
+  },
+  "Question": "An object could be ...",
+  "Type": "MCQ",
+  "Difficulty_Level": "Medium",
+  "Option1": "Anything",
+  "Option2": "A data container",
+  "Option3": "A program",
+  "Option4": "An Algorithm",
+  "Correct_Answer": "Anything"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8b6"
+  },
+  "Question": "Inner classes can be defined within methods.",
+  "Type": "T/F",
+  "Difficulty_Level": "Medium",
+  "Option1": "True",
+  "Option2": "False",
+  "Correct_Answer": "True"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8b7"
+  },
+  "Question": "What is the main function of any variable?",
+  "Type": "MCQ",
+  "Difficulty_Level": "Medium",
+  "Option1": "To add numbers together",
+  "Option2": "To keep track of data in the memory of the computer",
+  "Option3": "To print words on the screen",
+  "Option4": "To write Java codes",
+  "Correct_Answer": "To keep track of data in the memory of the computer"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8b8"
+  },
+  "Question": "Methods that are marked protected can be called in any subclass of that class.",
+  "Type": "T/F",
+  "Difficulty_Level": "Medium",
+  "Option1": "True",
+  "Option2": "False",
+  "Correct_Answer": "True"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8b9"
+  },
+  "Question": "The last value in an array called ar can be found at index:",
+  "Type": "MCQ",
+  "Difficulty_Level": "Medium",
+  "Option1": "0",
+  "Option2": "1",
+  "Option3": "Ar.length",
+  "Option4": "Ar.length - 1",
+  "Correct_Answer": "Ar.length - 1"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8ba"
+  },
+  "Question": "Choose the best definition of an object",
+  "Type": "MCQ",
+  "Difficulty_Level": "Medium",
+  "Option1": "A Thing",
+  "Option2": "An instance of a class",
+  "Option3": "Something you wear",
+  "Option4": "Variable",
+  "Correct_Answer": "An instance of a class"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8bb"
+  },
+  "Question": "An abstract class can have non-abstract methods.",
+  "Type": "T/F",
+  "Difficulty_Level": "Medium",
+  "Option1": "True",
+  "Option2": "False",
+  "Correct_Answer": "True"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8bc"
+  },
+  "Question": "What is the difference between private and public functions?",
+  "Type": "MCQ",
+  "Difficulty_Level": "Medium",
+  "Option1": "Public functions are free, you have to buy private ones",
+  "Option2": "Public functions are the only ones you can download",
+  "Option3": "Public functions can be used by anyone, private can only be used by other code in the class you are writing",
+  "Option4": "Public functions can’t be used",
+  "Correct_Answer": "Public functions can be used by anyone, private can only be used by other code in the class you are writing"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8bd"
+  },
+  "Question": "What is an instanceof?",
+  "Type": "MCQ",
+  "Difficulty_Level": "Medium",
+  "Option1": "A methods in object",
+  "Option2": "An operator and keyword",
+  "Option3": "An operator only",
+  "Option4": "A keyword only",
+  "Correct_Answer": "An operator and keyword"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8be"
+  },
+  "Question": "Native methods can be \"abstract\"",
+  "Type": "T/F",
+  "Difficulty_Level": "Hard",
+  "Option1": "True",
+  "Option2": "False",
+  "Correct_Answer": "False"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8bf"
+  },
+  "Question": "Which one could be used as the main container in a Java application?",
+  "Type": "MCQ",
+  "Difficulty_Level": "Hard",
+  "Option1": "JApplet",
+  "Option2": "JFrame",
+  "Option3": "JPanel",
+  "Option4": "JButton",
+  "Correct_Answer": "JFrame"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8c0"
+  },
+  "Question": "How to define a JButton with the caption test?",
+  "Type": "MCQ",
+  "Difficulty_Level": "Hard",
+  "Option1": "JButton aButton(\"test\");",
+  "Option2": "JButton aButton=new JButton(\"test\");",
+  "Option3": "JButton aButton=new JButton(test);",
+  "Option4": "Button(\"test\") aButton;",
+  "Correct_Answer": "JButton aButton=new JButton(\"test\");"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8c1"
+  },
+  "Question": "A UML association from class A to class B means",
+  "Type": "MCQ",
+  "Difficulty_Level": "Hard",
+  "Option1": "Class B inherits from Class A",
+  "Option2": "Class B is defined within class A",
+  "Option3": "Class B has an attribute of Type A",
+  "Option4": "Class A has an attribute of Type B",
+  "Correct_Answer": "Class A has an attribute of Type B"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8c2"
+  },
+  "Question": "Class B inherits from Class A, what cannot be said:",
+  "Type": "MCQ",
+  "Difficulty_Level": "Hard",
+  "Option1": "B is a sub-class of A",
+  "Option2": "A is a super-class of B",
+  "Option3": "B has access to private members of A",
+  "Option4": "B has access to protected members of A",
+  "Correct_Answer": "B has access to private members of A"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8c3"
+  },
+  "Question": "A class can be transient.",
+  "Type": "T/F",
+  "Difficulty_Level": "Hard",
+  "Option1": "True",
+  "Option2": "False",
+  "Correct_Answer": "False"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8c4"
+  },
+  "Question": "What is an Applet?",
+  "Type": "MCQ",
+  "Difficulty_Level": "Hard",
+  "Option1": "AA Java program that does not run through a web browser",
+  "Option2": "A Java program that is run through a web browser",
+  "Option3": "An object-oriented programming language",
+  "Option4": "An interactive website",
+  "Correct_Answer": "A Java program that is run through a web browser"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8c5"
+  },
+  "Question": "Java keywords are written in lowercase as well as uppercase.",
+  "Type": "T/F",
+  "Difficulty_Level": "Hard",
+  "Option1": "True",
+  "Option2": "False",
+  "Correct_Answer": "False"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8c6"
+  },
+  "Question": "What does AWT stands for?",
+  "Type": "MCQ",
+  "Difficulty_Level": "Hard",
+  "Option1": "Advanced Window Toolkit",
+  "Option2": "Abstract window Toolkit",
+  "Option3": "Adjust Window Toolkit",
+  "Option4": "None of the choices",
+  "Correct_Answer": "Abstract window Toolkit"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8c7"
+  },
+  "Question": "In an instance method or a constructor, \"this\" is a reference to the current object.",
+  "Type": "T/F",
+  "Difficulty_Level": "Hard",
+  "Option1": "True",
+  "Option2": "False",
+  "Correct_Answer": "True"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8c8"
+  },
+  "Question": " _____ is used to find and fix bugs in the Java programs.",
+  "Type": "MCQ",
+  "Difficulty_Level": "Hard",
+  "Option1": "JVM",
+  "Option2": "JRE",
+  "Option3": "JDK",
+  "Option4": "JDB",
+  "Correct_Answer": "JDB"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8c9"
+  },
+  "Question": "What is the return Type of the hashCode() method in the Object class?",
+  "Type": "MCQ",
+  "Difficulty_Level": "Hard",
+  "Option1": "Object",
+  "Option2": "Int",
+  "Option3": "Long",
+  "Option4": "Void",
+  "Correct_Answer": "Int"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8ca"
+  },
+  "Question": "Garbage Collection is manual process.",
+  "Type": "T/F",
+  "Difficulty_Level": "Hard",
+  "Option1": "True",
+  "Option2": "False",
+  "Correct_Answer": "False"
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8cb"
+  },
+  "Question": " What do you mean by nameless objects?",
+  "Type": "MCQ",
+  "Difficulty_Level": "Hard",
+  "Option1": "An object created by using the new keyword.",
+  "Option2": "An object of a superclass created in the subclass.",
+  "Option3": "An object without having any name but having a reference.",
+  "Option4": "An object that has no reference.",
+  "Correct_Answer": "An object that has no reference."
+},{
+  "_id": {
+    "$oid": "61990f585236ee483c8ea8cc"
+  },
+  "Question": "Which of the following is an immediate subclass of the Panel class?",
+  "Type": "MCQ",
+  "Difficulty_Level": "Hard",
+  "Option1": "Applet class",
+  "Option2": "Window class",
+  "Option3": "Frame class",
+  "Option4": "Dialog class",
+  "Correct_Answer": "Applet class"
+}]

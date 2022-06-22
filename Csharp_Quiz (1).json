@@ -1,0 +1,511 @@
+[{
+  "_id": {
+    "$oid": "619180a1aebd8e5995153adb"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Easy",
+  "Question": "Which of the following can be defined as generic?",
+  "Option1": "Structures",
+  "Option2": "Delegates",
+  "Option3": "Methods,Classes,Interfaces",
+  "Option4": "All of the Others",
+  "Correct_Answer": "All of the Others"
+},{
+  "_id": {
+    "$oid": "6191813c4ee3e5137ec7ddb3"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Easy",
+  "Question": "What kind of memory where an object is allocated?",
+  "Option1": "Managed heap",
+  "Option2": "Data area",
+  "Option3": "Stack area",
+  "Option4": "Code area",
+  "Correct_Answer": "Stack area"
+},{
+  "_id": {
+    "$oid": "619182134ee3e5137ec7ddb4"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Easy",
+  "Question": "Which of the following keyword is used for including the namespaces in the program in C#?",
+  "Option1": "imports",
+  "Option2": "using",
+  "Option3": "exports",
+  "Option4": "None of the Above",
+  "Correct_Answer": "using"
+},{
+  "_id": {
+    "$oid": "619182674ee3e5137ec7ddb5"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Easy",
+  "Question": "Which of the following converts a type to a 16-bit integer in C#?",
+  "Option1": "ToDecimal",
+  "Option2": "ToDouble",
+  "Option3": "ToInt16",
+  "Option4": "ToInt32",
+  "Correct_Answer": "ToInt16"
+},{
+  "_id": {
+    "$oid": "619182d84ee3e5137ec7ddb6"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Easy",
+  "Question": "Which of the following preprocessor directive allows testing a symbol or symbols to see if they evaluate to true in C#?",
+  "Option1": "define",
+  "Option2": "undef",
+  "Option3": "if",
+  "Option4": "elif",
+  "Correct_Answer": "if"
+},{
+  "_id": {
+    "$oid": "61918353aebd8e5995153adc"
+  },
+  "Type": "T/F",
+  "Difficulty_Level": "Easy",
+  "Question": "The Comparison Operators can be overloaded",
+  "Option1": "True",
+  "Option2": "False",
+  "Correct_Answer": "True"
+},{
+  "_id": {
+    "$oid": "619183ea4ee3e5137ec7ddb7"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Easy",
+  "Question": "CLR is the .Net equivalent of",
+  "Option1": "Java Virtual machine",
+  "Option2": "Common Language Runtime",
+  "Option3": "Common Type System",
+  "Option4": "Common Language Specification",
+  "Correct_Answer": "Java Virtual machine"
+},{
+  "_id": {
+    "$oid": "619184374ee3e5137ec7ddb8"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Easy",
+  "Question": "The default scope for the members of an interface is?",
+  "Option1": "private",
+  "Option2": "public",
+  "Option3": "protected",
+  "Option4": "internal",
+  "Correct_Answer": "public"
+},{
+  "_id": {
+    "$oid": "619184854ee3e5137ec7ddb9"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Easy",
+  "Question": "Which of the following keywords is used to refer base class constructor to subclass constructor?",
+  "Option1": "this",
+  "Option2": "static",
+  "Option3": "base",
+  "Option4": "extend",
+  "Correct_Answer": "base"
+},{
+  "_id": {
+    "$oid": "619184f14ee3e5137ec7ddbb"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Easy",
+  "Question": " The data members of a class by default are?",
+  "Option1": "protected, public",
+  "Option2": "private, public",
+  "Option3": "private",
+  "Option4": "public",
+  "Correct_Answer": "private"
+},{
+  "_id": {
+    "$oid": "619185244ee3e5137ec7ddbc"
+  },
+  "Type": "T/F",
+  "Difficulty_Level": "Easy",
+  "Question": "The space required for structure variables is allocated on the stack.",
+  "Option1": "True",
+  "Option2": "False",
+  "Correct_Answer": "True"
+},{
+  "_id": {
+    "$oid": "6191857c4ee3e5137ec7ddbd"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Easy",
+  "Question": "The point at which an exception is thrown is called the?",
+  "Option1": "Default point",
+  "Option2": "Invoking point",
+  "Option3": "Calling point",
+  "Option4": "Throw point",
+  "Correct_Answer": "Throw point"
+},{
+  "_id": {
+    "$oid": "619186394ee3e5137ec7ddbe"
+  },
+  "Type": "T/F",
+  "Difficulty_Level": "Easy",
+  "Question": "In C#, an array subscript must be an Integer.",
+  "Option1": "True",
+  "Option2": "False",
+  "Correct_Answer": "True"
+},{
+  "_id": {
+    "$oid": "619186744ee3e5137ec7ddbf"
+  },
+  "Type": "T/F",
+  "Difficulty_Level": "Easy",
+  "Question": "When you declare objects, their character fields initialize to 0.",
+  "Option1": "True",
+  "Option2": "False",
+  "Correct_Answer": "False"
+},{
+  "_id": {
+    "$oid": "619186a94ee3e5137ec7ddc0"
+  },
+  "Type": "T/F",
+  "Difficulty_Level": "Easy",
+  "Question": "The do-while loop is a pretest loop.",
+  "Option1": "True",
+  "Option2": "False",
+  "Correct_Answer": "False"
+},{
+  "_id": {
+    "$oid": "619187024ee3e5137ec7ddc1"
+  },
+  "Type": "T/F",
+  "Difficulty_Level": "Medium",
+  "Question": "One execution of any loop is called pretest. ",
+  "Option1": "True",
+  "Option2": "False",
+  "Correct_Answer": "False"
+},{
+  "_id": {
+    "$oid": "619187424ee3e5137ec7ddc2"
+  },
+  "Type": "T/F",
+  "Difficulty_Level": "Medium",
+  "Question": "In C#, you can display variable values by using the variable name within a WriteLine() method call. ",
+  "Option1": "True",
+  "Option2": "False",
+  "Correct_Answer": "True"
+},{
+  "_id": {
+    "$oid": "619187774ee3e5137ec7ddc3"
+  },
+  "Type": "T/F",
+  "Difficulty_Level": "Medium",
+  "Question": "Arithmetic operators are called Binary operators when you use two arguments with each operator.",
+  "Option1": "True",
+  "Option2": "False",
+  "Correct_Answer": "True"
+},{
+  "_id": {
+    "$oid": "619187b04ee3e5137ec7ddc4"
+  },
+  "Type": "T/F",
+  "Difficulty_Level": "Medium",
+  "Question": "The data components of a class often are called its iteration.",
+  "Option1": "True",
+  "Option2": "False",
+  "Correct_Answer": "False"
+},{
+  "_id": {
+    "$oid": "619187f14ee3e5137ec7ddc5"
+  },
+  "Type": "T/F",
+  "Difficulty_Level": "Medium",
+  "Question": "A class that is used as a basis for inheritance is called a derived class.",
+  "Option1": "True",
+  "Option2": "False",
+  "Correct_Answer": "False"
+},{
+  "_id": {
+    "$oid": "619188654ee3e5137ec7ddc6"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Medium",
+  "Question": "What can be signature of an application's entry point?",
+  "Option1": "public static void mainO {}",
+  "Option2": "public static void Ma in (string s) {}",
+  "Option3": "public static void Main() { }",
+  "Option4": "public static void Main(int n) {}",
+  "Correct_Answer": "public static void Main() { }"
+},{
+  "_id": {
+    "$oid": "619188ae4ee3e5137ec7ddc7"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Medium",
+  "Question": "Which sentence is correct?",
+  "Option1": "An abstract class is a class that can be sealed.",
+  "Option2": "An abstract class is a class that cannot be inherited from.",
+  "Option3": "A class can inherit from many abstract classes.",
+  "Option4": "An abstract class is a class that cannot be instantiated.",
+  "Correct_Answer": "An abstract class is a class that cannot be instantiated."
+},{
+  "_id": {
+    "$oid": "619189184ee3e5137ec7ddc8"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Medium",
+  "Question": "Which keyword is used when you wish to explicitly reference the fields and members of the current object?",
+  "Option1": "abstract",
+  "Option2": "virtual",
+  "Option3": "base",
+  "Option4": "this",
+  "Correct_Answer": "this"
+},{
+  "_id": {
+    "$oid": "6191898c4ee3e5137ec7ddc9"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Medium",
+  "Question": "What does the keyword virtual declare for a method?",
+  "Option1": "The method can be overridden.",
+  "Option2": "The method cannot be overridden",
+  "Option3": "The method cannot be inherited.",
+  "Option4": "The method cannot be accessible",
+  "Correct_Answer": "The method can be overridden."
+},{
+  "_id": {
+    "$oid": "619189c44ee3e5137ec7ddca"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Medium",
+  "Question": "Which class is at the top of.NET class hierarchy?",
+  "Option1": "System.Object",
+  "Option2": "System.Int32",
+  "Option3": "System.Byte",
+  "Option4": "System.String",
+  "Correct_Answer": "System.Object"
+},{
+  "_id": {
+    "$oid": "61918bfb4ee3e5137ec7ddcb"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Medium",
+  "Question": "When will the garbage collector run?",
+  "Option1": "Once every day at 13.00.",
+  "Option2": "Every 15 minutes.",
+  "Option3": "When the application is low on memory",
+  "Option4": "None of the Above",
+  "Correct_Answer": "When the application is low on memory"
+},{
+  "_id": {
+    "$oid": "61918da94ee3e5137ec7ddcc"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Medium",
+  "Question": "C# language offers the following features.",
+  "Option1": "No pointers required: Automatic memory management through garbage collection!",
+  "Option2": "Pointers required: Full support for aspect-oriented programming (AOP) techniques via attributes",
+  "Option3": "Support a delete keyword: Full support for aspect-oriented programming (AOP) techniques via attributes",
+  "Option4": "No pointers required: Support a delete keyword!",
+  "Correct_Answer": "No pointers required: Automatic memory management through garbage collection!"
+},{
+  "_id": {
+    "$oid": "61918e074ee3e5137ec7ddcd"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Medium",
+  "Question": "Which sentence about enumerations is correct?",
+  "Option1": "By default the storage used to hold each item of an enumeration is a floating-point value.",
+  "Option2": "Enumerations are a handy programming construct that allow you to group name/value pairs.",
+  "Option3": "You cannot alter the storage slot used to hold each item of an enumeration.",
+  "Option4": "None of the Above.",
+  "Correct_Answer": "Enumerations are a handy programming construct that allow you to group name/value pairs."
+},{
+  "_id": {
+    "$oid": "61918f9a4ee3e5137ec7ddce"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Medium",
+  "Question": "An engine that shared by all .NET-aware languages is called:",
+  "Option1": "A shared engine",
+  "Option2": "A general engine",
+  "Option3": "A common runtime engine",
+  "Option4": "A base class engine",
+  "Correct_Answer": "A common runtime engine"
+},{
+  "_id": {
+    "$oid": "619190394ee3e5137ec7ddcf"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Medium",
+  "Question": "Under which of the following environments does your programs execution code run?",
+  "Option1": "CLS",
+  "Option2": "CLR",
+  "Option3": "VB.NET",
+  "Option4": "MSIL",
+  "Correct_Answer": "CLR"
+},{
+  "_id": {
+    "$oid": "6191915e4ee3e5137ec7ddd0"
+  },
+  "Type": "T/F",
+  "Difficulty_Level": "Difficulty",
+  "Question": "The toolbox contains icons representing controls used to customize forms.",
+  "Option1": "True",
+  "Option2": "False",
+  "Correct_Answer": "True"
+},{
+  "_id": {
+    "$oid": "6191918d4ee3e5137ec7ddd1"
+  },
+  "Type": "T/F",
+  "Difficulty_Level": "Difficulty",
+  "Question": "The Solution Explorer window provides access only to certain files in the solution.",
+  "Option1": "True",
+  "Option2": "False",
+  "Correct_Answer": "False"
+},{
+  "_id": {
+    "$oid": "619192164ee3e5137ec7ddd2"
+  },
+  "Type": "T/F",
+  "Difficulty_Level": "Difficulty",
+  "Question": "A Instance variable data field or method can be used within its own class or in any classes extended from that class, but it cannot be used by outside classes.",
+  "Option1": "True",
+  "Option2": "False",
+  "Correct_Answer": "False"
+},{
+  "_id": {
+    "$oid": "619192994ee3e5137ec7ddd3"
+  },
+  "Type": "T/F",
+  "Difficulty_Level": "Difficulty",
+  "Question": "An Interface is a collection of abstract methods (and perhaps other members) that can be used by any class, as long as the class provides a definition to override the interface's do-nothing, or abstract, method definitions.",
+  "Option1": "True",
+  "Option2": "False",
+  "Correct_Answer": "True"
+},{
+  "_id": {
+    "$oid": "619193014ee3e5137ec7ddd4"
+  },
+  "Type": "T/F",
+  "Difficulty_Level": "Difficulty",
+  "Question": "A destructor is a clause that indicates another instance of a class constructor should be executed before any statements in the current constructor body.",
+  "Option1": "True",
+  "Option2": "False",
+  "Correct_Answer": "False"
+},{
+  "_id": {
+    "$oid": "6191940a4ee3e5137ec7ddd5"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Difficult",
+  "Question": "If the Solution Explorer is not shown, select",
+  "Option1": "View > Solution Explorer",
+  "Option2": "File > Solution Explorer",
+  "Option3": "Edit > Solution Explorer",
+  "Option4": "Tools > Solution Explorer",
+  "Correct_Answer": "View > Solution Explorer"
+},{
+  "_id": {
+    "$oid": "619195b14ee3e5137ec7ddd6"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Difficult",
+  "Question": "An assembly consists of Assembly Metadata. Type Metadata. _ and_",
+  "Option1": "Type Declaration and Resources",
+  "Option2": "IL Code and Resource",
+  "Option3": "Resources and Classes",
+  "Option4": "Classes and IL Code",
+  "Correct_Answer": "IL Code and Resource"
+},{
+  "_id": {
+    "$oid": "61919a164ee3e5137ec7ddd7"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Difficult",
+  "Question": "Which of the following statements are correct for C# language?",
+  "Option1": "Every derived class does not define its own version of the virtual method.",
+  "Option2": "By default, the access mode for all methods in C# is virtual.",
+  "Option3": "If a derived class, does not define its own version of the virtual method, then the one present in the base class gets used.",
+  "Option4": "All of the Above.",
+  "Correct_Answer": "If a derived class, does not define its own version of the virtual method, then the one present in the base class gets used."
+},{
+  "_id": {
+    "$oid": "61919f8f4ee3e5137ec7ddd8"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Difficult",
+  "Question": "Assume you wish to check validation of E-mail data. Which validation control is the most suitable to do it?",
+  "Option1": "RangeValidator",
+  "Option2": "RegularExpressionValidator",
+  "Option3": "RequiredFieldValidator",
+  "Option4": "CompareValidator",
+  "Correct_Answer": "RegularExpressionValidator"
+},{
+  "_id": {
+    "$oid": "61919fe24ee3e5137ec7ddd9"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Difficult",
+  "Question": "What is advantage of code-behind page model?",
+  "Option1": "It is possible to have designers working on the markup while programmers author the C# code.",
+  "Option2": "Pages are easier to deploy or send to another developer.",
+  "Option3": "Managing files in a source control system is slightly easier.",
+  "Option4": "Pages are easier to rename.",
+  "Correct_Answer": "It is possible to have designers working on the markup while programmers author the C# code."
+},{
+  "_id": {
+    "$oid": "6191a0304ee3e5137ec7ddda"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Difficult",
+  "Question": "What does the EnableViewState property do?",
+  "Option1": "ViewState is used to save your identity.",
+  "Option2": "It allows the page to save the users input on a form across postbacks.",
+  "Option3": "ViewState is used to ensure the security.",
+  "Option4": "ViewState is used to increase the performance.",
+  "Correct_Answer": "It allows the page to save the users input on a form across postbacks."
+},{
+  "_id": {
+    "$oid": "6191a06c4ee3e5137ec7dddb"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Difficult",
+  "Question": "What are required services in an ASP.NET Web server?",
+  "Option1": "Messenger and IIS Admin",
+  "Option2": "HTTP SSL and Messenger",
+  "Option3": "World Wide Web Publishing and HTTP SSL",
+  "Option4": "IIS Admin and World Wide Web Publishing",
+  "Correct_Answer": "IIS Admin and World Wide Web Publishing"
+},{
+  "_id": {
+    "$oid": "6191a0c74ee3e5137ec7dddc"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Difficult",
+  "Question": "We can use ... and ... methods to ensure that application-level variables are not updated by more than one user simultaneously.",
+  "Option1": "Block and Unblock",
+  "Option2": "Lock and Unlock",
+  "Option3": "Server and Session",
+  "Option4": "Lock and Key",
+  "Correct_Answer": "Block and Unblock"
+},{
+  "_id": {
+    "$oid": "6191a1184ee3e5137ec7dddd"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Difficult",
+  "Question": "What is the name of entity that compiles CIL code into meaningful CPU instructions?",
+  "Option1": "Common Language Specification (CLS).",
+  "Option2": "Common Type System (CTS)",
+  "Option3": "Just-in-time (JIT) compiler",
+  "Option4": "C# compiler",
+  "Correct_Answer": "Just-in-time (JIT) compiler"
+},{
+  "_id": {
+    "$oid": "6191a16c4ee3e5137ec7ddde"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Difficult",
+  "Question": "which sentence about default context is correct?",
+  "Option1": "default context is context1.",
+  "Option2": "default context is the last context created within an application domain",
+  "Option3": "default context is used to group together .NET objects that have no specific or unique contextual needs.",
+  "Option4": " Only default application domain has default context",
+  "Correct_Answer": "default context is used to group together .NET objects that have no specific or unique contextual needs."
+}]

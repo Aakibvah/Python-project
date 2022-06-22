@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "61986aa120884eacaf948639"
+  },
+
+  "User_Name": "Jyoti Mittal",
+  "Email": "Mitt2@gmail.com",
+  "Password": "Mittal123"
+},{
+  "_id": {
+    "$oid": "61986ac020884eacaf94863a"
+  },
+  "id": 5350,
+  "User_Name": "Aakib",
+  "Email": "Askib@gmail.com",
+  "Password": "Asskib123"
+},{
+  "_id": {
+    "$oid": "61986ad420884eacaf94863b"
+  },
+  "id": 5351,
+  "User_Name": "jasmeen",
+  "Email": "Jass@gmail.com",
+  "Password": "Jas123"
+}]

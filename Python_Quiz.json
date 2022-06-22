@@ -1,0 +1,325 @@
+[{
+  "_id": {
+    "$oid": "618ea3855366cd8604f2a8ad"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Easy",
+  "Question": "All keywords in Python are in _________",
+  "Option1": "Capitalized",
+  "Option2": "lower case",
+  "Option3": "UPPER CASE",
+  "Option4": "None of the mentioned",
+  "Correct_Answer": "D"
+},{
+  "_id": {
+    "$oid": "618ea4447f26abb1a08c9bb7"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Easy",
+  "Question": "Which of the following is the correct extension of the Python file?",
+  "Option1": ".python",
+  "Option2": ".pl",
+  "Option3": ".py",
+  "Option4": ".p",
+  "Correct_Answer": "C"
+},{
+  "_id": {
+    "$oid": "618ea6b67f26abb1a08c9bb8"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Easy",
+  "Question": "Which of the following is the correct extension of the Python file?",
+  "Option1": ".python",
+  "Option2": ".pl",
+  "Option3": ".py",
+  "Option4": ".p",
+  "Correct_Answer": "C"
+},{
+  "_id": {
+    "$oid": "618ea7027f26abb1a08c9bb9"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Easy",
+  "Question": "Which keyword is used for function in Python language?",
+  "Option1": "Function",
+  "Option2": "Def",
+  "Option3": "Fun",
+  "Option4": "Define",
+  "Correct_Answer": "B"
+},{
+  "_id": {
+    "$oid": "618ea73c7f26abb1a08c9bba"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Easy",
+  "Question": "Which of the following character is used to give single-line comments in Python?",
+  "Option1": "//",
+  "Option2": "#",
+  "Option3": "!",
+  "Option4": "/*",
+  "Correct_Answer": "c"
+},{
+  "_id": {
+    "$oid": "61900751dd5e8f1925629485"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Medium",
+  "Question": "What will be the output of the following Python code? \n i = 1 \n while True: \n if i%3 == 0:\n  break \n print(i) \n  i + = 1",
+  "Option1": "1 2 3",
+  "Option2": "error",
+  "Option3": "1 2",
+  "Option4": "none of the mentioned",
+  "Correct_Answer": "B"
+},{
+  "_id": {
+    "$oid": "61900797dd5e8f1925629486"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Easy",
+  "Question": "What is output of print(math.pow(3, 2))?",
+  "Option1": "9.0",
+  "Option2": "None",
+  "Option3": "9",
+  "Option4": "none of the mentioned",
+  "Correct_Answer": "A"
+},{
+  "_id": {
+    "$oid": "619007fadd5e8f1925629487"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Easy",
+  "Question": "Which of the following is the truncation division operator in Python?",
+  "Option1": "|",
+  "Option2": "//",
+  "Option3": "/",
+  "Option4": "%",
+  "Correct_Answer": "B"
+},{
+  "_id": {
+    "$oid": "61900829dd5e8f1925629488"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Easy",
+  "Question": "Which of the following functions is a built-in function in python?",
+  "Option1": "factorial()",
+  "Option2": "print()/",
+  "Option3": "seed()",
+  "Option4": "sqrt()",
+  "Correct_Answer": "B"
+},{
+  "_id": {
+    "$oid": "61900864dd5e8f1925629489"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Easy",
+  "Question": "Which of the following is the use of id() function in python?",
+  "Option1": "Every object doesn’t have a unique id",
+  "Option2": "Id returns the identity of the object",
+  "Option3": "All of the mentioned",
+  "Option4": "None of the mentioned",
+  "Correct_Answer": "B"
+},{
+  "_id": {
+    "$oid": "619008a2dd5e8f192562948a"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Easy",
+  "Question": "Which of the following is not a core data type in Python programming?",
+  "Option1": "Tuples",
+  "Option2": "Lists",
+  "Option3": "Class",
+  "Option4": "Dictionary",
+  "Correct_Answer": "C"
+},{
+  "_id": {
+    "$oid": "619008d5dd5e8f192562948b"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Easy",
+  "Question": "Which of these is the definition for packages in Python?",
+  "Option1": "A set of main modules",
+  "Option2": "A folder of python modules",
+  "Option3": "A number of files containing Python definitions and statements",
+  "Option4": "A set of programs making use of Python modules",
+  "Correct_Answer": "B"
+},{
+  "_id": {
+    "$oid": "61900921dd5e8f192562948c"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Easy",
+  "Question": "Which function is called when the following Python program is executed? \n f = foo() \n format(f)",
+  "Option1": "str()",
+  "Option2": "format()",
+  "Option3": "__str__()",
+  "Option4": "__format__()",
+  "Correct_Answer": "C"
+},{
+  "_id": {
+    "$oid": "61900954dd5e8f192562948d"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Easy",
+  "Question": "What arithmetic operators cannot be used with strings in Python?",
+  "Option1": "*",
+  "Option2": "-",
+  "Option3": "+",
+  "Option4": "All of the mentioned)",
+  "Correct_Answer": "B"
+},{
+  "_id": {
+    "$oid": "619009dddd5e8f192562948e"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Easy",
+  "Question": "Which of the following statements is used to create an empty set in Python?",
+  "Option1": "()",
+  "Option2": "[]",
+  "Option3": "{ }",
+  "Option4": "set()",
+  "Correct_Answer": "D"
+},{
+  "_id": {
+    "$oid": "61900a13dd5e8f192562948f"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Easy",
+  "Question": " To add a new element to a list we use which Python command?",
+  "Option1": "list1.addEnd(5)",
+  "Option2": "list1.addLast(5)",
+  "Option3": "list1.append(5)",
+  "Option4": "list1.add(5)",
+  "Correct_Answer": "C"
+},{
+  "_id": {
+    "$oid": "61900a7add5e8f1925629490"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Medium",
+  "Question": "What will be the output of the following Python code? \n print(abc. DEF.capitalize())",
+  "Option1": "Abc. def",
+  "Option2": "abc. def",
+  "Option3": "Abc. Def",
+  "Option4": "ABC. DEF",
+  "Correct_Answer": "A"
+},{
+  "_id": {
+    "$oid": "61985e3c7d4b29177e6676da"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Medium",
+  "Question": "What are the values of the following Python expressions?\n 2**(3**2)\n(2**3)**2\n2**3**2",
+  "Option1": "512, 64, 512",
+  "Option2": "512, 512, 512",
+  "Option3": "64, 512, 64",
+  "Option4": "64, 64, 64",
+  "Correct_Answer": "A"
+},{
+  "_id": {
+    "$oid": "61985e877d4b29177e6676db"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Medium",
+  "Question": "What will be the output of the following Python code? \n l=[1, 0, 2, 0, 'hello', '', []] \nlist(filter(bool, l))",
+  "Option1": "[1, 0, 2, ‘hello’, ”, []]",
+  "Option2": "Error",
+  "Option3": "[1, 2, ‘hello’]",
+  "Option4": "[1, 0, 2, 0, ‘hello’, ”, []]",
+  "Correct_Answer": "C"
+},{
+  "_id": {
+    "$oid": "61985ee67d4b29177e6676dc"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Medium",
+  "Question": "What will be the output of the following Python function?\nmin(max(False,-3,-4), 2,7)",
+  "Option1": "-4",
+  "Option2": "-3",
+  "Option3": "2",
+  "Option4": "False",
+  "Correct_Answer": "D"
+},{
+  "_id": {
+    "$oid": "61985fa67d4b29177e6676dd"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Medium",
+  "Question": "What will be the output of the following Python code?\nx = 'abcd'\nfor i in x:\n\tprint(i.upper())",
+  "Option1": "a B C D-",
+  "Option2": "a b c d-",
+  "Option3": "error",
+  "Option4": "A B C D",
+  "Correct_Answer": "D"
+},{
+  "_id": {
+    "$oid": "6198617f7d4b29177e6676de"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Medium",
+  "Question": "Select all options that print.\n hello-how-are-you",
+  "Option1": "print(‘hello’, ‘how’, ‘are’, ‘you’)",
+  "Option2": "print(‘hello’, ‘how’, ‘are’, ‘you’ + ‘-‘ * 4)",
+  "Option3": "print(‘hello-‘ + ‘how-are-you’)",
+  "Option4": "print(‘hello’ + ‘-‘ + ‘how’ + ‘-‘ + ‘are’ + ‘you’)",
+  "Correct_Answer": "C"
+},{
+  "_id": {
+    "$oid": "619862d77d4b29177e6676df"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Hard",
+  "Question": "What is output of following code − \nl = [1,2,6,5,7,8]\nl.insert(9)",
+  "Option1": "l=[9,1,2,6,5,7,8]",
+  "Option2": "l=[1,2,6,5,9.7,8] (insert randomly at any position)",
+  "Option3": "l=[1,2,6,5,7,8,9]",
+  "Option4": "Type Error",
+  "Correct_Answer": "D"
+},{
+  "_id": {
+    "$oid": "6198635f7d4b29177e6676e0"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Hard",
+  "Question": "Which of the function among will return 4 on the set s = {3, 4, 1, 2}?",
+  "Option1": "Sum(s)",
+  "Option2": "Len(s)",
+  "Option3": "Max(s)",
+  "Option4": " Four(s)",
+  "Correct_Answer": "B"
+},{
+  "_id": {
+    "$oid": "619864477d4b29177e6676e1"
+  },
+  "Type": "MCQ",
+  "Difficulty_Level": "Hard",
+  "Question": "What is the output? \nlist1 = [1, 2, 3, 4] list2 = [5, 6, 7, 8] print(len(list1 + list2))",
+  "Option1": "6",
+  "Option2": "36",
+  "Option3": "8",
+  "Option4": "4 ",
+  "Correct_Answer": "B"
+},{
+  "_id": {
+    "$oid": "6198649d7d4b29177e6676e2"
+  },
+  "Type": "T/F",
+  "Difficulty_Level": "Hard",
+  "Question": "In Python, Dictionaries are immutable",
+  "Option1": "False",
+  "Option2": "True",
+  "Option3": "",
+  "Option4": " ",
+  "Correct_Answer": "B"
+},{
+  "_id": {
+    "$oid": "619864ba7d4b29177e6676e3"
+  },
+  "Type": "T/F",
+  "Difficulty_Level": "Hard",
+  "Question": "Items are accessed by their position in a dictionary and All the keys in a dictionary must be of the same type.",
+  "Option1": "False",
+  "Option2": "True",
+  "Option3": "",
+  "Option4": " ",
+  "Correct_Answer": "A"
+}]
